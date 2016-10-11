@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{872DCB5B-85D4-4316-B5D5-2B8163BDC217}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Cars/Car.cs">
+    <Files>
+      <File FileName="Cars/Program.cs" Line="15" Column="1" />
+      <File FileName="Cars/Car.cs" Line="22" Column="4" />
+      <File FileName="Cars/Scene.cs" Line="35" Column="3" />
+      <File FileName="Cars/IObserver.cs" Line="8" Column="1" />
+      <File FileName="Cars/Global.cs" Line="12" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Cars PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

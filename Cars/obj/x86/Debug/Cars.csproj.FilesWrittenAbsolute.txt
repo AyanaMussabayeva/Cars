@@ -1,0 +1,10 @@
+/Users/apple/Projects/Cars/Cars/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/apple/Projects/Cars/Cars/bin/Debug/Cars.exe.mdb
+/Users/apple/Projects/Cars/Cars/bin/Debug/Cars.exe
+/Users/apple/Projects/Cars/Cars/obj/x86/Debug/Cars.exe
+/Users/apple/Projects/Cars/Cars/obj/x86/Debug/Cars.exe.mdb
+/Users/apple/Desktop/Projects/Cars/Cars/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/apple/Desktop/Projects/Cars/Cars/bin/Debug/Cars.exe.mdb
+/Users/apple/Desktop/Projects/Cars/Cars/bin/Debug/Cars.exe
+/Users/apple/Desktop/Projects/Cars/Cars/obj/x86/Debug/Cars.exe
+/Users/apple/Desktop/Projects/Cars/Cars/obj/x86/Debug/Cars.exe.mdb

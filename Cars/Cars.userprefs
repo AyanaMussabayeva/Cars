@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{872DCB5B-85D4-4316-B5D5-2B8163BDC217}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Action.cs">
+    <Files>
+      <File FileName="Car.cs" Line="6" Column="3" />
+      <File FileName="Scene.cs" Line="99" Column="1" />
+      <File FileName="IObserver.cs" Line="9" Column="1" />
+      <File FileName="Program.cs" Line="14" Column="30" />
+      <File FileName="Wall.cs" Line="19" Column="41" />
+      <File FileName="Global.cs" Line="12" Column="34" />
+      <File FileName="Subject.cs" Line="17" Column="4" />
+      <File FileName="Action.cs" Line="32" Column="7" />
+      <File FileName="Properties/IClonable.cs" Line="9" Column="1" />
+      <File FileName="CarForm.cs" Line="11" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Cars PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
